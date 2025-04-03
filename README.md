@@ -7,6 +7,8 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 
 ## 📚 Um pouco mais sobre mim
 - 🎮 Apaixonada por videogames
+- 🎥 Amo assistir filmes, séries, doramas, animes...
+- 🎬 Faço umas edição de vídeo e design de vez em nunca
 - 🎨 Adoro desenhar e criar histórias no meu tempo livre
 - 💻 Curiosa sobre desenvolvimento web e novas tecnologias
 - 🚀 Buscando aprimorar minhas habilidades e me tornar uma profissional completa
@@ -25,6 +27,6 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=tokyonight"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=dracula"/>
 </p>
