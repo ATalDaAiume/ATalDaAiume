@@ -27,6 +27,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=midnight-purple"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=midnight-purple"/>
 </p>
+
