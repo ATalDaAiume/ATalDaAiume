@@ -25,6 +25,6 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 💬 [**Discord**](https://discord.com/users/eloaiume)
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=radical"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=tokyonight"/>
 </p>
