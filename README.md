@@ -48,4 +48,3 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=midnight-purple"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=midnight-purple"/>
 </p>
-
