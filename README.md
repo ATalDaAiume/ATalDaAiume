@@ -15,9 +15,9 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 
 ## 🔭 No momento, estou trabalhando em...
 - 🖥️ Criar um portfólio sólido para apresentar meu trabalho e usá-lo como estudo.
-- 📝 Anotar possíveis ideias para futuros projetos! 😆
+- 📝 Estou sempre anotando ideias para futuros projetos! 😆
 
-## 🌱 Atualmente estou aprendendo...
+## 🌱 Estou focada em aprender...
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
