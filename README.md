@@ -32,7 +32,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <img align="center" alt="Canva" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canva_Logo.svg">
+    <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
 
 ## 🤔 Estou procurando ajuda com ...
