@@ -20,8 +20,9 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - 💡 Aprender mais sobre boas práticas de programação.
 
 ## 📫 Como me encontrar:
-- ✉️ [**E-mail**](mailto:eloizeayumi@gmail.com)
-- 💬 [**Discord**](https://discord.com/users/eloaiume)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/eloaiume)](https://discord.com/users/eloaiume)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
 
 <p align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=tokyonight"/>
