@@ -35,7 +35,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
     <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
 
-## 🤔 Estou procurando ajuda com ...
+## 🤔 Estou procurando ajuda com...
 - 📌 Melhorar minhas habilidades em desenvolvimento web.
 - 💡 Aprender mais sobre boas práticas de programação.
 
