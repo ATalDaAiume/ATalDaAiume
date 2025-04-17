@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/RhZ1RsDw/image-Phantom.png" alt="LadyPhantom" width="200" style="border-radius: 100px;">
+  <img src="https://i.postimg.cc/RhZ1RsDw/image-Phantom.png" alt="LadyPhantom" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 </div>
 
 ###
