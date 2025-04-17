@@ -45,11 +45,8 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/eloaiume)](https://discord.com/users/eloaiume)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&"  />
-</div>
-
 <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=midnight-purple"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=midnight-purple"/>
     <img height="150em" alt="Streak atual" src="https://streak-stats.demolab.com?user=ATalDaAiume&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3"/>
