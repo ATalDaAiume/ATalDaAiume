@@ -96,6 +96,12 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - 🧠 Lógica e algoritmos
 - ⚙️ Organização e versionamento de projetos
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ATaldaAiume&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATaldaAiume&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com?user=ATaldaAiume&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="Streak atual" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/eloizeaiume/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
