@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
+</div>
 
   <p align="center">
     🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Em busca de estágio
@@ -18,6 +19,7 @@
   </a>
 </p>
 
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&label=Visitantes&color=6A1B9A&style=for-the-badge" alt="visitantes" />
 </div>
 
