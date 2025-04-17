@@ -2,6 +2,11 @@
   <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
 </div>
 
+### 📫 Como me encontrar:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/eloaiume)](https://discord.com/users/eloaiume)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
+
 ###
 
 
@@ -46,11 +51,6 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 ## 🤔 Estou procurando ajuda com...
 - 📌 Melhorar minhas habilidades em desenvolvimento web.
 - 💡 Aprender mais sobre boas práticas de programação.
-
-## 📫 Como me encontrar:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/eloaiume)](https://discord.com/users/eloaiume)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&"/>
