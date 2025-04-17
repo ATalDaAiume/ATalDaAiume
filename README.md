@@ -42,12 +42,10 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - 📝 Estou sempre anotando ideias para futuros projetos! 😆
 
 ## 📘 Atualmente estudando...
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() | [![Bootcamp da DIO](https://img.shields.io/badge/Bootcamp%20da%20DIO-FFB81C?style=for-the-badge&logo=python&logoColor=white)]()  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]() | [![Faculdade](https://img.shields.io/badge/Faculdade-FF9800?style=for-the-badge&logo=java&logoColor=white)]()  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]() & [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]() | [![Projetos acadêmicos](https://img.shields.io/badge/Projetos%20Acad%C3%AAmicos-3F51B5?style=for-the-badge&logo=mysql&logoColor=white)]()  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](), [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() & [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() | [![Revisão e aprofundamento contínuo](https://img.shields.io/badge/Revis%C3%A3o%20e%20Aprofundamento%20Cont%C3%ADnuo-00BCD4?style=for-the-badge&logo=javascript&logoColor=white)]()
 
 
 ## 🌱 Estou focada em aprender...
