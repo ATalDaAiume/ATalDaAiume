@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/eloaiume" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://discord.gg/APDUQSnb" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo" />
   </a>
   <a href="mailto:eloizeayumi@gmail.com" target="_blank" style="text-decoration: none; border: none;">
