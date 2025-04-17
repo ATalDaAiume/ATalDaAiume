@@ -1,6 +1,10 @@
 <div align="center">
   <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
 
+  <p align="center">
+  🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Em busca de estágio
+  </p>
+
   📫 <strong>Como me encontrar:</strong><br><br>
   <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -16,6 +20,9 @@
 </div>
 
 # ✨ Olá! Sejam bem-vindos, eu sou a Elo! 👋
+[![Técnico em Informática para Web](https://img.shields.io/badge/Técnico-Informática%20para%20Web-purple?style=for-the-badge&logo=windows-terminal&logoColor=white)]()
+[![Estudante de ADS](https://img.shields.io/badge/Curso-ADS-blue?style=for-the-badge&logo=OpenAccess&logoColor=white)]()
+[![Senac Joinville](https://img.shields.io/badge/Instituição-Senac%20Joinville-orange?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://www.sc.senac.br/)
 
 ## 🌐 Sobre mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e concluí o **técnico em Informática para Web** junto com o ensino médio. Natural de Joinville, sempre fui apaixonada por tecnologia e programação, e busco constantemente aprimorar minhas habilidades na área.
@@ -33,6 +40,15 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 ## 🔭 No momento, estou trabalhando em...
 - 🖥️ Criar um portfólio sólido para apresentar meu trabalho e usá-lo como estudo.
 - 📝 Estou sempre anotando ideias para futuros projetos! 😆
+
+## 📘 Atualmente estudando...
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
 
 ## 🌱 Estou focada em aprender...
 <div style="display: inline_block"><br>
@@ -69,11 +85,11 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
   <img align="center" alt="Itch.io" height="30" width="40" src="https://cdn.simpleicons.org/itchdotio/ED1C24">
 </div>
 
-
-
-## 🤔 Estou procurando ajuda com...
-- 📌 Melhorar minhas habilidades em desenvolvimento web.
-- 💡 Aprender mais sobre boas práticas de programação.
+## 🤔 Estou buscando ajuda e aprendendo mais sobre:
+- 💻 Desenvolvimento Web (HTML, CSS, JS, PHP, MySQL)
+- 📐 Boas práticas de programação
+- 🧠 Lógica e algoritmos
+- ⚙️ Organização e versionamento de projetos
 
 <p align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=midnight-purple"/>
