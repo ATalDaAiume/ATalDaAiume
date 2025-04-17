@@ -6,8 +6,8 @@
     🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Em busca de estágio
   </p>
 
-  📫 <strong>Como me encontrar:</strong><br><br>
 <p align="center">
+  📫 <strong>Como me encontrar:</strong><br><br>
   <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
   </a>
@@ -97,16 +97,10 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - ⚙️ Organização e versionamento de projetos
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=midnight-purple"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=midnight-purple"/>
-    <img height="150em" alt="Streak atual" src="https://streak-stats.demolab.com?user=ATalDaAiume&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/eloizeaiume/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com/users/eloaiume">
+  <a href="https://discord.gg/APDUQSnb">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="mailto:eloizeayumi@gmail.com">
