@@ -4,10 +4,19 @@
 
 ###
 <div align="center">
-📫 Como me encontrar:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eloizeaiume/)](https://www.linkedin.com/in/eloizeaiume/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/eloaiume)](https://discord.com/users/eloaiume)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloizeayumi@gmail.com)](mailto:eloizeayumi@gmail.com)
+
+  📫 <strong>Como me encontrar:</strong><br><br>
+
+  <a href="https://www.linkedin.com/in/eloizeaiume/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://discord.com/users/eloaiume">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
+  </a>
+  <a href="mailto:eloizeayumi@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+
 </div>
 
 ###
