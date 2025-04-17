@@ -38,8 +38,9 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - 🚀 Buscando aprimorar minhas habilidades e me tornar uma profissional completa
 
 ## 🔭 No momento, estou trabalhando em...
-- 🖥️ Criar um portfólio sólido para apresentar meu trabalho e usá-lo como estudo.
-- 📝 Estou sempre anotando ideias para futuros projetos! 😆
+- 🖥️ Criar um portfólio sólido para apresentar meus projetos e habilidades adquiridas ao longo dos estudos e estágios.
+- 📝 Sempre anotando ideias e planejando para futuros projetos empolgantes! 😆
+- 🎮 **Província de Numereth**: Um projeto de extensão de ADS que promete ensinar matemática básica de maneira divertida com um joguinho RPG. [Repositório no GitHub](https://github.com/ATalDaAiume/math_rpg)
 
 ## 📘 Atualmente estudando...
 [![Python](https://img.shields.io/badge/Python-Bootcamp%20da%20DIO-4D4D4D?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)]()  
