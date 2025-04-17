@@ -101,3 +101,15 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=midnight-purple"/>
     <img height="150em" alt="Streak atual" src="https://streak-stats.demolab.com?user=ATalDaAiume&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3"/>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.com/users/eloaiume" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo" />
+  </a>
+  <a href="mailto:eloizeayumi@gmail.com" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c14438&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
+  </a>
+</p>
