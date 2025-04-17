@@ -13,10 +13,6 @@
   </a>
 </div>
 
-
-###
-
-
 # ✨ Olá! Sejam bem-vindos, eu sou a Elo! 👋
 
 ## 🌐 Sobre mim
