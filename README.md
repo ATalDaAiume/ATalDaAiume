@@ -103,13 +103,13 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/eloizeaiume/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com/users/eloaiume" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo" />
+  <a href="https://discord.com/users/eloaiume">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="mailto:eloizeayumi@gmail.com" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c14438&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
+  <a href="mailto:eloizeayumi@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
