@@ -1,13 +1,5 @@
-<style>
-    .imagem-arredondada {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
-
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/RhZ1RsDw/image-Phantom.png" src="sua-imagem.jpg" alt="Imagem arredondada" class="imagem-arredondada"/>
+  <img src="https://i.postimg.cc/RhZ1RsDw/image-Phantom.png" alt="LadyPhantom" width="200" style="border-radius: 50%;">
 </div>
 
 ###
