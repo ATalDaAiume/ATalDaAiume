@@ -1,3 +1,18 @@
+<style>
+    .imagem-arredondada {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+<div align="center">
+  <img height="150" src="https://i.postimg.cc/RhZ1RsDw/image-Phantom.png" src="sua-imagem.jpg" alt="Imagem arredondada" class="imagem-arredondada"/>
+</div>
+
+###
+
+
 # ✨ Olá! Sejam bem-vindos, eu sou a Elo! 👋
 
 ## 🌐 Sobre mim
