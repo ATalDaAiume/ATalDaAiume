@@ -57,7 +57,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
   <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.simpleicons.org/xampp/FF4F00">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.simpleicons.org/github/24292F">
-  <img align="center" alt="DevC++" height="30" width="40" src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.png">
+  <img align="center" alt="DevC++" height="30" width="40" style="border-radius: 10px;" src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.png">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Lucidchart" height="30" width="40" src="https://images.icon-icons.com/2699/PNG/512/lucidchart_logo_icon_170973.png">
@@ -66,7 +66,10 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
   <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
   <img align="center" alt="Renpy" height="30" width="40" src="https://cdn.simpleicons.org/renpy/F48FB1">
   <img align="center" alt="Itch.io" height="30" width="40" src="https://cdn.simpleicons.org/itchdotio/ED1C24">
+  <img align="center" alt="Twine" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Twine_vector_logo.svg/1200px-Twine_vector_logo.svg.png">
 </div>
+
+
 
 ## 🤔 Estou procurando ajuda com...
 - 📌 Melhorar minhas habilidades em desenvolvimento web.
