@@ -11,6 +11,8 @@
   <a href="mailto:eloizeayumi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c14438&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&"/>
 </div>
 
 # ✨ Olá! Sejam bem-vindos, eu sou a Elo! 👋
@@ -56,7 +58,6 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - 💡 Aprender mais sobre boas práticas de programação.
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATalDaAiume&show_icons=true&theme=midnight-purple"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATalDaAiume&layout=compact&theme=midnight-purple"/>
     <img height="150em" alt="Streak atual" src="https://streak-stats.demolab.com?user=ATalDaAiume&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3"/>
