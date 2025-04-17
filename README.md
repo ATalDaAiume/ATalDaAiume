@@ -57,17 +57,16 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
   <img align="center" alt="XAMPP" height="30" width="40" src="https://cdn.simpleicons.org/xampp/FF4F00">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.simpleicons.org/github/24292F">
-  <img align="center" alt="DevC++" height="30" width="40" src="https://images.icon-icons.com/98/PNG/256/dev_c_17239.png" style="filter: grayscale(100%)">
+  <img align="center" alt="DevC++" height="30" width="40" src="https://images.icon-icons.com/98/PNG/256/dev_c_17239.png" style="filter: brightness(0.7)">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Lucidchart" height="30" width="40" src="https://images.icon-icons.com/2699/PNG/512/lucidchart_logo_icon_170973.png">
   <img align="center" alt="Miro" height="30" width="40" src="https://cdn.simpleicons.org/miro/3A3A3A">
   <img align="center" alt="Krita" height="30" width="40" src="https://cdn.simpleicons.org/krita/9B59B6">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
-  <img align="center" alt="Renpy" height="30" width="40" src="https://cdn.simpleicons.org/renpy/F4A300">
+  <img align="center" alt="Renpy" height="30" width="40" src="https://cdn.simpleicons.org/renpy/EC407A">
   <img align="center" alt="Itch.io" height="30" width="40" src="https://cdn.simpleicons.org/itchdotio/ED1C24">
 </div>
-
 
 ## 🤔 Estou procurando ajuda com...
 - 📌 Melhorar minhas habilidades em desenvolvimento web.
