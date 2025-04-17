@@ -1,9 +1,5 @@
 <div align="center">
   <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
-</div>
-
-###
-<div align="center">
 
   📫 <strong>Como me encontrar:</strong><br><br>
   <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank">
