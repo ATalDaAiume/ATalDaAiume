@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/RhZ1RsDw/image-Phantom.png" alt="LadyPhantom" style="width: 200px; height: 200px; border-radius: 50%; display: inline-block; object-fit: cover;">
-
+  <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
 </div>
 
 ###
