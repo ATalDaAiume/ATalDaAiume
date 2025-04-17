@@ -2,26 +2,26 @@
   <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
 
   <p align="center">
-  🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Em busca de estágio
+    🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Em busca de estágio
   </p>
 
   📫 <strong>Como me encontrar:</strong><br><br>
-  <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank">
+  <a href="https://www.linkedin.com/in/eloizeaiume/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/eloaiume" target="_blank">
+  <a href="https://discord.com/users/eloaiume" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="mailto:eloizeayumi@gmail.com" target="_blank">
+  <a href="mailto:eloizeayumi@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c14438&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ATalDaAiume&"/>
+  <img src="https://img.shields.io/static/v1?label=Visitantes&message=0&color=5D3F6E&style=for-the-badge" alt="visitantes" />
 </div>
 
 # ✨ Olá! Sejam bem-vindos, eu sou a Elo! 👋
-[![Técnico em Informática para Web](https://img.shields.io/badge/Técnico-Informática%20para%20Web-purple?style=for-the-badge&logo=windows-terminal&logoColor=white)]()
-[![Estudante de ADS](https://img.shields.io/badge/Curso-ADS-blue?style=for-the-badge&logo=OpenAccess&logoColor=white)]()
+[![Técnico em Informática para Web](https://img.shields.io/badge/Técnico-Informática%20para%20Web-blue?style=for-the-badge&logo=Google-Scholar&logoColor=white)]() 
+[![Estudante de ADS](https://img.shields.io/badge/Curso-ADS-5D3F6E?style=for-the-badge&logo=OpenAccess&logoColor=white)]()
 [![Senac Joinville](https://img.shields.io/badge/Instituição-Senac%20Joinville-orange?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://www.sc.senac.br/)
 
 ## 🌐 Sobre mim
@@ -82,6 +82,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
   <img align="center" alt="Renpy" height="30" width="40" src="https://cdn.simpleicons.org/renpy/F48FB1">
   <img align="center" alt="Twine" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Twine_vector_logo.svg/1200px-Twine_vector_logo.svg.png">
   <img align="center" alt="Itch.io" height="30" width="40" src="https://cdn.simpleicons.org/itchdotio/ED1C24">
+  <img align="center" alt="Ibis Paint X" height="30" width="40" src="https://img.icons8.com/color/48/000000/ibis-paint-x.png">
 </div>
 
 ## 🤔 Estou buscando ajuda e aprendendo mais sobre:
