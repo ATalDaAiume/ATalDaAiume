@@ -42,13 +42,12 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 - 📝 Estou sempre anotando ideias para futuros projetos! 😆
 
 ## 📘 Atualmente estudando...
-## 📘 Atualmente estudando...
-[![HTML](https://img.shields.io/badge/Revisão%20e%20Aprofundamento-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  
-[![CSS](https://img.shields.io/badge/Revisão%20e%20Aprofundamento-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/Revisão%20e%20Aprofundamento-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()  
-[![PHP](https://img.shields.io/badge/Projetos%20Acadêmicos-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()  
-[![MySQL](https://img.shields.io/badge/Projetos%20Acadêmicos-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  
-[![Python](https://img.shields.io/badge/Bootcamp%20da%20DIO-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-Bootcamp%20da%20DIO-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-Revisão%20e%20Aprofundamento-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  
+[![CSS](https://img.shields.io/badge/CSS-Revisão%20e%20Aprofundamento-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
+[![JavaScript](https://img.shields.io/badge/JavaScript-Revisão%20e%20Aprofundamento-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()  
+[![PHP](https://img.shields.io/badge/PHP-Projetos%20Acadêmicos-777BB4?style=for-the-badge&logo=php&logoColor=white)]()  
+[![MySQL](https://img.shields.io/badge/MySQL-Projetos%20Acadêmicos-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  
 
 ## 🌱 Estou focada em aprender...
 <div style="display: inline_block"><br>
