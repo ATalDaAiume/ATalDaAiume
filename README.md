@@ -63,7 +63,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Lucidchart" height="30" width="40" src="https://cdn.simpleicons.org/lucidchart/0061F2">
   <img align="center" alt="Miro" height="30" width="40" src="https://cdn.simpleicons.org/miro/3A3A3A">
-  <img align="center" alt="Krita" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Krita_Icon.svg/2048px-Krita_Icon.svg.png">
+  <img align="center" alt="Krita" height="30" width="40" src="https://cdn.simpleicons.org/krita/000000">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
   <img align="center" alt="Renpy" height="30" width="40" src="https://cdn.simpleicons.org/renpy/FFFFFF">
   <img align="center" alt="Itch.io" height="30" width="40" src="https://cdn.simpleicons.org/itchdotio/ED1C24">
