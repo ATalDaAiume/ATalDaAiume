@@ -3,7 +3,7 @@
 </div>
 
   <p align="center">
-    🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Em busca de estágio
+    🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Buscando efetivação e crescimento na área de TI
   </p>
 
 <p align="center">
