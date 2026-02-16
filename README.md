@@ -2,9 +2,9 @@
   <img height="150" src="https://i.postimg.cc/7P34FxZB/redondo.png" />
 </div>
 
-  <p align="center">
-    🎓 Estudante de ADS | 💻 Desenvolvimento Web e Suporte Técnico | 🎮 Game Dev nas horas vagas | 🚀 Buscando efetivação e crescimento na área de TI
-  </p>
+<p align="center">
+  🎓 Analista de Suporte ERP | 💻 Desenvolvedora Web | 🎮 Game Dev | 🚀 Transformando problemas em soluções lógicas
+</p>
 
 <p align="center">
   📫 <strong>Como me encontrar:</strong><br><br>
@@ -29,22 +29,28 @@
 [![Senac Joinville](https://img.shields.io/badge/Instituição-Senac%20Joinville-orange?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://www.sc.senac.br/)
 
 ## 🌐 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e concluí o **técnico em Informática para Web** junto com o ensino médio. Natural de Joinville, sempre fui apaixonada por tecnologia e programação, e busco constantemente aprimorar minhas habilidades na área.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Analista de Suporte ERP**, onde utilizo **SQL** e lógica de programação para resolver incidentes e otimizar processos.
 
-Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha criatividade e conhecimento para desenvolver soluções inovadoras. Estou sempre aprendendo e explorando novas ferramentas, linguagens e tendências do mercado para aprimorar minhas habilidades como desenvolvedora.
+Minha trajetória é marcada pela **automação**: já desenvolvi scripts e fluxos que reduziram drasticamente o tempo operacional de equipes anteriores. Hoje, estou focada em migrar essas habilidades para o **Desenvolvimento Web** e **Game Dev**, criando aplicações que unem performance, segurança e uma excelente experiência do usuário.
+
+## 🚀 Projetos em Destaque
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| **[📝 To-Do List API](https://github.com/ATalDaAiume/To-do-list)** | API RESTful robusta com **autenticação JWT**, documentação **Swagger** e sistema de **Logs de Auditoria** no banco de dados. | `Node.js` `Express` `Sequelize` |
+| **[🛍️ Baguncei Store](https://github.com/ATalDaAiume/Baguncei-Store)** | Simulação de e-commerce focada em **Clean Code**, refatoração e responsividade. | `JavaScript` `HTML5` `CSS3` |
+| **[🎮 O Diário de Elise](https://github.com/MistyMoonEstudios/Diario-de-Elise)** | Jogo de horror analógico focado em narrativa e lógica de escolhas. (Em desenvolvimento) | `Game Dev` `Lógica` `Narrativa` |
 
 ## 📚 Um pouco mais sobre mim
-- 🎮 Apaixonada por videogames
-- 🎥 Amo assistir filmes, séries, doramas, animes...
-- 🎬 Faço umas edição de vídeo e design de vez em nunca
+- 🎮 Apaixonada por videogames e narrativas interativas
+- 🎥 Amo assistir filmes, séries, doramas e animes
+- 🎬 Faço umas edição de vídeo e design "de vez em nunca"
 - 🎨 Adoro desenhar e criar histórias no meu tempo livre
-- 💻 Curiosa sobre desenvolvimento web e novas tecnologias
 - 🚀 Buscando aprimorar minhas habilidades e me tornar uma profissional completa
 
 ## 🔭 No momento, estou trabalhando em...
-- 🖥️ Criar um portfólio sólido para apresentar meus projetos e habilidades adquiridas ao longo dos estudos e estágios.
-- 📝 Sempre anotando ideias e planejando para futuros projetos empolgantes! 😆
-- 🎮 **Província de Numereth**: Um projeto de extensão de ADS que promete ensinar matemática básica de maneira divertida com um joguinho RPG. [Repositório no GitHub](https://github.com/ATalDaAiume/math_rpg)
+- 🖥️ **Refatoração Técnica:** Melhorando a arquitetura da minha API To-Do List com Logs e Swagger.
+- 🎮 **Game Dev:** Desenvolvendo "O Diário de Elise", focado em lógica de escolhas e front-end criativo.
+- 📝 **Portfólio:** Criando uma vitrine sólida para meus projetos de automação e desenvolvimento.
 
 ## 📘 Atualmente estudando...
 [![Python](https://img.shields.io/badge/Python-Bootcamp%20da%20DIO-4D4D4D?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)]()  
@@ -92,24 +98,18 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando minha
 
 ## 🤔 Estou buscando ajuda e aprendendo mais sobre:
 - 💻 Desenvolvimento Web (HTML, CSS, JS, PHP, MySQL)
-- 📐 Boas práticas de programação
-- 🧠 Lógica e algoritmos
-- ⚙️ Organização e versionamento de projetos
+- 📐 Boas práticas de programação (Clean Code)
+- 🧠 Lógica e algoritmos avançados
+- ⚙️ Arquitetura MVC e Design Patterns
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATaldaAiume&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATaldaAiume&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
-  <img src="https://streak-stats.demolab.com?user=ATaldaAiume&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="Streak atual" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataldaaiume&theme=midnight_purple" alt="Resumo do Perfil" />
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=ataldaaiume&theme=midnight-purple&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="Streak atual" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ataldaaiume&theme=midnight_purple" alt="Linguagens" height="195" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eloizeaiume/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://discord.gg/APDUQSnb">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="mailto:eloizeayumi@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
+  <a href="
